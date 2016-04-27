@@ -1,4 +1,4 @@
-FROM mono:4.0.5.1
+FROM zachdeibert/mono-docker:4.0.5.1
 
 MAINTAINER Jo Shields <jo.shields@xamarin.com>
 
